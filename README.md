@@ -41,7 +41,10 @@
 
 :- Assumptions Made
     - Device Status: Used mock data for device information
-
+    - React Router is used for client-side routing, and basic navigation is implemented for the required pages.
+    - Basic form validation
+    - For ticket viewing, only the current user’s submissions are shown. Admin-level visibility is not implemented unless stated.
+    - File uploads are simulated (file info shown but not uploaded anywhere).
 
 :- Future Improvements
 
