@@ -1,0 +1,62 @@
+.container {
+  margin: 20px 0;
+}
+
+.staffCard {
+  border-left: 4px solid #4287f5;
+}
+
+.staffAvatar {
+  background-color: #e3f2fd !important;
+  margin-right: 14px
+}
+
+.ticketCard {
+  border-left: 4px solid #ff9800
+}
+
+.ticketAvatar {
+  background-color: #fff3e0 !important;
+  margin-right: 14px
+}
+
+.taskCard {
+  border-left: 4px solid #4caf50
+}
+
+.taskAvatar {
+  background-color: #e8f5e9 !important;
+  margin-right: 14px
+}
+
+.loaderWrapper {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.ticketWrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 5px;
+  margin-bottom: 8px,
+}
+
+.todoContainer {
+  display: flex;
+  align-items: center;
+  padding: 8px 0
+}
+
+.todoCard {
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1)
+}
+
+.bannerWrapper {
+  padding: 25px;
+  margin-bottom: 20px;
+  background: linear-gradient(135deg, #6e8efb 0%, #a777e3 100%) !important;
+  color: white !important;
+  border-radius: 8px
+}
